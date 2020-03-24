@@ -1,7 +1,7 @@
 ## Welcome to B6strap
 
 [The pirst page](https://kissjgabi.github.io/B6strap/beginner/$00-01-theFirsrtPage.html)
-/
+
 [Alerts](https://kissjgabi.github.io/B6strap/beginner/$00-01-alerts.html)
 /
 [Alert links](https://kissjgabi.github.io/B6strap/beginner/$01-02-alertLinks.html)
