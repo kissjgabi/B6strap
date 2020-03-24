@@ -42,9 +42,11 @@
 /
 [Navbar](https://kissjgabi.github.io/B6strap/beginner/$00-13-navbar.html)
 
+## Github Pages
+[HowTo?](https://pages.github.com/)
 
-
-You can use the [editor on GitHub](https://github.com/kissjgabi/B6strap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```markdown
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
