@@ -1,25 +1,43 @@
 ## Welcome to B6strap
 
 [Alerts](https://kissjgabi.github.io/B6strap/beginner/$00-01-theFirsrtPage.html)
+/
 [Alert links](https://kissjgabi.github.io/B6strap/beginner/$01-02-alertLinks.html)
+/
 [Alert with additional content](https://kissjgabi.github.io/B6strap/beginner/$01-03-alertAdditionalContent.html)
+/
 [Alert dismissing](https://kissjgabi.github.io/B6strap/beginner/$01-04-alertDismissing.html)
 
 [Badges](https://kissjgabi.github.io/B6strap/beginner/$01-05-badges.html)
+/
 [Breadcrumb](https://kissjgabi.github.io/B6strap/beginner/$01-06-breadcrumb.html)
+/
 [Buttons](https://kissjgabi.github.io/B6strap/beginner/$01-07-buttons.html)
+/
 [Button group](https://kissjgabi.github.io/B6strap/beginner/$01-08-buttonGroups.html)
+/
 [Cards](https://kissjgabi.github.io/B6strap/beginner/$01-09-cards.html)
+/
 [Carousel](https://kissjgabi.github.io/B6strap/beginner/$00-10-carousel.html)
+/
 [Collapse](https://kissjgabi.github.io/B6strap/beginner/$00-11-collapse.html)
+/
 [Drop downs](https://kissjgabi.github.io/B6strap/beginner/$00-12-dropdowns.html)
+/
 [Forms](https://kissjgabi.github.io/B6strap/beginner/$00-13-forms.html)
+/
 [Input group](https://kissjgabi.github.io/B6strap/beginner/$00-14-inputGroups.html)
+/
 [Jumbotron](https://kissjgabi.github.io/B6strap/beginner/$00-15-jumbotron.html)
+/
 [List group](https://kissjgabi.github.io/B6strap/beginner/$00-16-listGroup.html)
+/
 [Media object](https://kissjgabi.github.io/B6strap/beginner/$00-17-mediaObject.html)
+/
 [Modal](https://kissjgabi.github.io/B6strap/beginner/$00-18-modal.html)
+/
 [Navs](https://kissjgabi.github.io/B6strap/beginner/$00-19-navs.html)
+/
 [Navbar](https://kissjgabi.github.io/B6strap/beginner/$00-13-navbar.html)
 
 
