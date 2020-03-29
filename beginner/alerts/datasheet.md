@@ -42,5 +42,4 @@ code:
 		crossorigin="anonymous"></script>
   </body>
 </html>
-
 ```
