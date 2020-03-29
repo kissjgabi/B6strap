@@ -1,4 +1,4 @@
-[B6strap Home](../../README.md )  
+[B6strap Home](https://kissjgabi.github.io/B6strap/)  
   
 ## The first page
 
