@@ -1,4 +1,4 @@
-[B6strap Home](B6strap/README.md )  
+[B6strap Home](../../README.md )  
   
 ## The first page
 
