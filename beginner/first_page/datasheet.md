@@ -5,7 +5,6 @@
 <a href="https://kissjgabi.github.io/B6strap/beginner/$00-01-theFirsrtPage.html" target="_blank">Prevew in browser</a>
 
 code:
-
 ```html
 <!doctype html>
 <html lang="hu">
@@ -20,16 +19,16 @@ code:
 		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" 
 		crossorigin="anonymous" />
 
-    <title>001-theFirstPage</title>
+    <title>011-alerts</title>
   </head>
   <body>
-    
-    <!-- CONTENT START -->
-
-      <h1>YOUR CONTENT</h1>
-
-    <!-- CONTENT END -->
-
+```
++ CONTENT START 
+```html
+	<h1>YOUR CONTENT</h1>
+```
++ CONTENT END 
+```html
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" 
