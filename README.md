@@ -4,11 +4,11 @@
 ```
 ```
 [Alerts](https://kissjgabi.github.io/B6strap/beginner/$01-01-alerts.html)
-/
+:
 [Alert links](https://kissjgabi.github.io/B6strap/beginner/$01-02-alertLinks.html)
-/
+:
 [Alert with additional content](https://kissjgabi.github.io/B6strap/beginner/$01-03-alertAdditionalContent.html)
-/
+:
 [Alert dismissing](https://kissjgabi.github.io/B6strap/beginner/$01-04-alertDismissing.html)
 ```
 ```
