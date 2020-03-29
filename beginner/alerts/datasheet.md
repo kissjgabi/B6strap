@@ -24,7 +24,7 @@ code:
   </head>
   <body>
 ```  
-* CONTENT START  
+CONTENT START  
 ```html
       <h1>0101-alerts</h1>	
 	
@@ -53,7 +53,7 @@ code:
 	  A simple dark alert—check it out!
 	</div>
 ```  
-* CONTENT END  
+CONTENT END  
 ```html
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
