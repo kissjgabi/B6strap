@@ -23,11 +23,11 @@ code:
   </head>
   <body>
 ```
-+ CONTENT START 
+CONTENT START 
 ```html
 	<h1>YOUR CONTENT</h1>
 ```
-+ CONTENT END 
+CONTENT END 
 ```html
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
