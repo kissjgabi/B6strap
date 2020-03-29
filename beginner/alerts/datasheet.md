@@ -23,8 +23,8 @@ code:
     <title>0101-alerts</title>
   </head>
   <body>
-```
-+ CONTENT START 
+```  
++ CONTENT START  
 ```html
       <h1>0101-alerts</h1>	
 	
@@ -52,8 +52,8 @@ code:
 	<div class="alert alert-dark" role="alert">
 	  A simple dark alert—check it out!
 	</div>
-```
-+ CONTENT END 
+```  
++ CONTENT END  
 ```html
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -68,4 +68,4 @@ code:
 		crossorigin="anonymous"></script>
   </body>
 </html>
-```
+```  
