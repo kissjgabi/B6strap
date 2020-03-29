@@ -3,7 +3,7 @@
 [The pirst page](beginner/first_page/datasheet.md)
 ```
 ```
-[Alerts](https://kissjgabi.github.io/B6strap/beginner/$01-01-alerts.html)
+[Alerts](beginner/alerts/datasheet.md)
 :
 [Alert links](https://kissjgabi.github.io/B6strap/beginner/$01-02-alertLinks.html)
 :
