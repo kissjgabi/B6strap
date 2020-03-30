@@ -1,4 +1,4 @@
-## Welcome to B6strap
+## Welcome to B6strap Pages
 
 [The pirst page](beginner/first_page/datasheet.md)
 ```
