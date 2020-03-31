@@ -1,7 +1,4 @@
-theme: minima
-
-minima:
-  skin: sunrise
+remote-theme: kissjgabi/b6theme
   
 header_pages:
   - about.md
