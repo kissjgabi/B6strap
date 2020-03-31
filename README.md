@@ -1,5 +1,3 @@
-## Welcome to B6strap Pages
-
 [The first page](beginner/first_page/datasheet.md)
 ```
 ```
