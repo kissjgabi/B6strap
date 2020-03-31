@@ -1,6 +1,6 @@
 ## Welcome to B6strap Pages
 
-[The pirst page](beginner/first_page/datasheet.md)
+[The first page](beginner/first_page/datasheet.md)
 ```
 ```
 [Alerts](beginner/alerts/datasheet.md)
