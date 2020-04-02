@@ -1,4 +1,3 @@
-[B6strap Home](https://kissjgabi.github.io/B6strap/)  
   
 ## Alerts
 
