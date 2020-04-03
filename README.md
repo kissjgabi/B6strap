@@ -2,7 +2,7 @@
 
 ```
 ```
-  
+[Alerts](beginner/$01-00-alerts.html)  
   
 [Alerts simple](beginner/alerts/datasheet-alerts-01-simple.md)
 ;;
@@ -28,7 +28,7 @@
 ```
 ```
 
-[Carousel](https://kissjgabi.github.io/B6strap/beginner/$07-00-carousel.html)
+[Carousel](https://kissjgabi.github.io/B6strap/beginner/$07-00-carousel.html)  
   
 [Carousel simple](beginner/carousel/datasheet-carousel-01-simple.md)
 ;;
