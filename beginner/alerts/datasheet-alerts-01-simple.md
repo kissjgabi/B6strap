@@ -25,8 +25,9 @@ code:
 ```  
 CONTENT START  
 ```html
-      <h1>01-alerts-01</h1>	
-	
+    <h1>01-01-alerts simple</h1>
+
+    <h3>Simple</h3>
 	<div class="alert alert-primary" role="alert">
 	  A simple primary alert—check it out!
 	</div>
@@ -51,6 +52,7 @@ CONTENT START
 	<div class="alert alert-dark" role="alert">
 	  A simple dark alert—check it out!
 	</div>
+<hr />
 ```  
 CONTENT END  
 ```html
