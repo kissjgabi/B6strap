@@ -24,40 +24,43 @@ code:
 ```  
 CSS START
 ```css
-    body {
-        margin: 0;
-        padding : 0;
-    }
+        body {
+            margin: 0;
+            padding : 0;
+        }
 
-    h1 {
-        height: 5vh;
-        line-height: 5vh;
-        margin: 0;
-        padding : 0;
-        background-color: lightgray;
-    }
+        h1 {
+            height: 5vh;
+            line-height: 5vh;
+            margin: 0;
+            padding : 0;
+            width: 100%;
+            position: fixed;
+            background-color: transzparent;
+            z-index: 10;
+        }
 
-    .bg-attach-absolute {   // default setting
-        background-attachment: absolute;
-    } 
+        .bg-attach-absolute {   // default setting
+            background-attachment: absolute;
+        } 
 
-    .carousel-item {
-        top: 0;
-        height: 95vh;
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover;
-        background-color: whitesmoke;
-    }
+        .carousel-item {
+            height: 100vh;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            background-color: whitesmoke;
+            overflow: hidden;
+        }
 
-    .carousel-item>img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
-        min-width: 100%;
-        height: 80vh;
-    }
+        .carousel-item>img {
+            position: absolute;
+            top: 5vh;
+            left: 0;
+            background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
+            min-width: 100%;
+            height: 90vh;
+        }
 ```  
 CSS END  
 
@@ -69,7 +72,7 @@ CONTENT START
   <body>
     <h1>07-01-carousel simple - slides only</h1>	
       
-<div id="carouselExampleSlidesOnly" class="carousel slide w-100" data-ride="carousel">
+<div id="carouselExampleSlidesOnly" class="carousel w-100 slide carousel-fade" data-ride="carousel">
     
   <div class="carousel-inner">
      <div class="carousel-item" style="background-image: url(../img192-bazilka.jpg)">
