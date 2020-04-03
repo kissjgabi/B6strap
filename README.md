@@ -71,9 +71,9 @@
 
 ### Carousel
 
-[Carousel with carousel-item's background image](advanced/datasheet-carousel-01-bgImage.md)  
+[Carousel with carousel-item's background image](advanced/carousel/datasheet-carousel-01-bgImage.md)  
 
-[Carousel with fixed background image](advanced/datasheet-carousel-02-bgImgFix.md)  
+[Carousel with fixed background image](advanced/carousel/datasheet-carousel-02-bgImgFix.md)  
 
 ## Github Pages
 [HowTo?](https://pages.github.com/)
