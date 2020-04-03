@@ -8,16 +8,11 @@ h1 {
     line-height: 5vh;
     margin: 0;
     padding : 0;
-    position: fixed;
     background-color: lightgray;
 }
 
 .bg-attach-absolute {   // default setting
     background-attachment: absolute;
-} 
-
-.bg-attach-fixed {
-    background-attachment: fixed;
 } 
 
 .carousel-item {

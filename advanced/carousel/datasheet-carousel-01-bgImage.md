@@ -21,10 +21,6 @@ code:
 
     <title>07-carousel</title>
 	
-    <link href="carousel.css" rel="stylesheet">
-
-</head>
-  <body>
 ```  
 CSS START
 ```css
@@ -43,10 +39,6 @@ CSS START
 
     .bg-attach-absolute {   // default setting
         background-attachment: absolute;
-    } 
-
-    .bg-attach-fixed {
-        background-attachment: fixed;
     } 
 
     .carousel-item {
@@ -71,6 +63,10 @@ CSS END
 
 CONTENT START  
 ```html
+    <link href="carousel-absolute.css" rel="stylesheet">
+
+</head>
+  <body>
     <h1>07-01-carousel simple - slides only</h1>	
       
 <div id="carouselExampleSlidesOnly" class="carousel slide w-100" data-ride="carousel">
