@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding : 0;
+}
+
+h1 {
+    height: 5vh;
+    line-height: 5vh;
+    margin: 0;
+    padding : 0;
+    background-color: lightgray;
+}
+
+.bg-attach-absolute {   // default setting
+    background-attachment: absolute;
+} 
+
+.bg-attach-fixed {
+    background-attachment: fixed;
+} 
+
+.carousel-item {
+    top: 0;
+    height: 95vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: whitesmoke;
+}
+
+.carousel-item>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
+    min-width: 100%;
+    height: 80vh;
+}
