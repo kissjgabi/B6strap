@@ -1,7 +1,7 @@
   
 ## Alerts 02
 
-<a href="https://kissjgabi.github.io/B6strap/beginner/$01-02-alerts.html" target="_blank">Prevew in browser</a>
+<a href="$01-02-alerts.html" target="_blank">Prevew in browser</a>
 
 code:
 

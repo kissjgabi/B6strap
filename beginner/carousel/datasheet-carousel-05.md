@@ -1,6 +1,6 @@
 ## Carousel 02
 
-<a href="$07-04carouselWithCaptions.html" target="_blank">Prevew in browser</a>
+<a href="$07-05carouselCrossfade.html" target="_blank">Prevew in browser</a>
 
 code:
 
@@ -9,13 +9,10 @@ code:
 ```  
 CONTENT START  
 ```html
-    <h3>With captions</h3>
-<div id="carouselExampleCaptions" class="carousel slide w-75 m-auto" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-  </ol>
+    <h1>07-05-carousel simple</h1>	
+	
+    <h3>Crossfade</h3>
+<div id="carouselExampleFade" class="carousel slide carousel-fade w-75 m-auto" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
         <!img src="..." class="d-block w-100" alt="...">
@@ -25,10 +22,6 @@ CONTENT START
 			<rect width="100%" height="100%" fill="#bbbbbb"></rect>
 			<text x="50%" y="50%" text-anchor="middle" fill="#2e2226" dy=".3em">First slide</text>
 		</svg>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-      </div>
     </div>
     <div class="carousel-item">
 		<!img src="..." class="d-block w-100" alt="...">
@@ -38,10 +31,6 @@ CONTENT START
 			<rect width="100%" height="100%" fill="#bbbbbb"></rect>
 			<text x="50%" y="50%" text-anchor="middle" fill="#2e2226" dy=".3em">Second slide</text>
 		</svg>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
     </div>
     <div class="carousel-item">
 		<!img src="..." class="d-block w-100" alt="...">
@@ -51,17 +40,13 @@ CONTENT START
 			<rect width="100%" height="100%" fill="#bbbbbb"></rect>
 			<text x="50%" y="50%" text-anchor="middle" fill="#2e2226" dy=".3em">Third slide</text>
 		</svg>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-      </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

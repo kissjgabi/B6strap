@@ -1,7 +1,7 @@
   
 ## The first page
 
-<a href="https://kissjgabi.github.io/B6strap/beginner/$00-01-theFirsrtPage.html" target="_blank">Prevew in browser</a>
+<a href="../$00-01-theFirsrtPage.html" target="_blank">Prevew in browser</a>
 
 code:
 ```html
