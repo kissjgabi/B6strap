@@ -10,37 +10,37 @@
 [Alert dismissing](https://kissjgabi.github.io/B6strap/beginner/$01-04-alertDismissing.html)
 ```
 ```
-[Badges](https://kissjgabi.github.io/B6strap/beginner/$01-05-badges.html)
+[Badges](https://kissjgabi.github.io/B6strap/beginner/$02-00-badges.html)
 /
-[Breadcrumb](https://kissjgabi.github.io/B6strap/beginner/$01-06-breadcrumb.html)
+[Breadcrumb](https://kissjgabi.github.io/B6strap/beginner/$03-00-breadcrumb.html)
 /
-[Buttons](https://kissjgabi.github.io/B6strap/beginner/$01-07-buttons.html)
+[Buttons](https://kissjgabi.github.io/B6strap/beginner/$04-00-buttons.html)
 /
-[Button group](https://kissjgabi.github.io/B6strap/beginner/$01-08-buttonGroups.html)
+[Button group](https://kissjgabi.github.io/B6strap/beginner/$05-00-buttonGroups.html)
 /
-[Cards](https://kissjgabi.github.io/B6strap/beginner/$01-09-cards.html)
+[Cards](https://kissjgabi.github.io/B6strap/beginner/$06-00-cards.html)
 /
-[Carousel](https://kissjgabi.github.io/B6strap/beginner/$00-10-carousel.html)
+[Carousel](https://kissjgabi.github.io/B6strap/beginner/$07-00-carousel.html)
 /
-[Collapse](https://kissjgabi.github.io/B6strap/beginner/$00-11-collapse.html)
+[Collapse](https://kissjgabi.github.io/B6strap/beginner/$08-00-collapse.html)
 /
-[Drop downs](https://kissjgabi.github.io/B6strap/beginner/$00-12-dropdowns.html)
+[Drop downs](https://kissjgabi.github.io/B6strap/beginner/$09-00-dropdowns.html)
 /
-[Forms](https://kissjgabi.github.io/B6strap/beginner/$00-13-forms.html)
+[Forms](https://kissjgabi.github.io/B6strap/beginner/$10-00-forms.html)
 /
-[Input group](https://kissjgabi.github.io/B6strap/beginner/$00-14-inputGroups.html)
+[Input group](https://kissjgabi.github.io/B6strap/beginner/$11-00-inputGroups.html)
 /
-[Jumbotron](https://kissjgabi.github.io/B6strap/beginner/$00-15-jumbotron.html)
+[Jumbotron](https://kissjgabi.github.io/B6strap/beginner/$12-00-jumbotron.html)
 /
-[List group](https://kissjgabi.github.io/B6strap/beginner/$00-16-listGroup.html)
+[List group](https://kissjgabi.github.io/B6strap/beginner/$13-00-listGroup.html)
 /
-[Media object](https://kissjgabi.github.io/B6strap/beginner/$00-17-mediaObject.html)
+[Media object](https://kissjgabi.github.io/B6strap/beginner/$14-00-mediaObject.html)
 /
-[Modal](https://kissjgabi.github.io/B6strap/beginner/$00-18-modal.html)
+[Modal](https://kissjgabi.github.io/B6strap/beginner/$15-00-modal.html)
 /
-[Navs](https://kissjgabi.github.io/B6strap/beginner/$00-19-navs.html)
+[Navs](https://kissjgabi.github.io/B6strap/beginner/$16-00-navs.html)
 /
-[Navbar](https://kissjgabi.github.io/B6strap/beginner/$00-13-navbar.html)
+[Navbar](https://kissjgabi.github.io/B6strap/beginner/$17-00-navbar.html)
 
 ## Github Pages
 [HowTo?](https://pages.github.com/)
