@@ -5,11 +5,11 @@
   
   
 [Alerts simple](beginner/alerts/datasheet-alerts-01-simple.md)
-:
+;;
 [Alerts with links](beginner/alerts/datasheet-alerts-02-withLinks.md)
-:
+;;
 [Alerts with additional content](beginner/alerts/datasheet-alerts-03-addContent.md)
-:
+;;
 [Alerts dismissing](beginner/alerts/datasheet-alerts-04-dismissing.md)
 
 ```
@@ -31,10 +31,15 @@
 [Carousel](https://kissjgabi.github.io/B6strap/beginner/$07-00-carousel.html)
   
 [Carousel simple](beginner/carousel/datasheet-carousel-01-simple.md)
+;;
 [Carousel with controls](beginner/carousel/datasheet-carousel-02-withControls.md)
+;;
 [Carousel with indicators](beginner/carousel/datasheet-carousel-03-withIndicators.md)
+;;
 [Carousel with captions](beginner/carousel/datasheet-carousel-04-withCaptions.md)
+;;
 [Carousel crossfade](beginner/carousel/datasheet-carousel-05-crossfade.md)
+;;
 [Carousel individual interval](beginner/carousel/datasheet-carousel-06-individualInterval.md)
 
 ```
