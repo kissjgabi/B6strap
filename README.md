@@ -1,3 +1,5 @@
+## Beginner guide
+  
 [The first page](beginner/first_page/datasheet.md)
 
 ```
@@ -15,20 +17,20 @@
 ```
 ```
 
-[Badges](https://kissjgabi.github.io/B6strap/beginner/$02-00-badges.html)
+[Badges](beginner/$02-00-badges.html)
 /
-[Breadcrumb](https://kissjgabi.github.io/B6strap/beginner/$03-00-breadcrumb.html)
+[Breadcrumb](beginner/$03-00-breadcrumb.html)
 /
-[Buttons](https://kissjgabi.github.io/B6strap/beginner/$04-00-buttons.html)
+[Buttons](beginner/$04-00-buttons.html)
 /
-[Button group](https://kissjgabi.github.io/B6strap/beginner/$05-00-buttonGroups.html)
+[Button group](beginner/$05-00-buttonGroups.html)
 /
-[Cards](https://kissjgabi.github.io/B6strap/beginner/$06-00-cards.html)
+[Cards](beginner/$06-00-cards.html)
 
 ```
 ```
 
-[Carousel](https://kissjgabi.github.io/B6strap/beginner/$07-00-carousel.html)  
+[Carousel](beginner/$07-00-carousel.html)  
   
 [Carousel simple](beginner/carousel/datasheet-carousel-01-simple.md)
 ;;
@@ -45,25 +47,33 @@
 ```
 ```
 
-[Collapse](https://kissjgabi.github.io/B6strap/beginner/$08-00-collapse.html)
+[Collapse](beginner/$08-00-collapse.html)
 /
-[Drop downs](https://kissjgabi.github.io/B6strap/beginner/$09-00-dropdowns.html)
+[Drop downs](beginner/$09-00-dropdowns.html)
 /
-[Forms](https://kissjgabi.github.io/B6strap/beginner/$10-00-forms.html)
+[Forms](beginner/$10-00-forms.html)
 /
-[Input group](https://kissjgabi.github.io/B6strap/beginner/$11-00-inputGroups.html)
+[Input group](beginner/$11-00-inputGroups.html)
 /
-[Jumbotron](https://kissjgabi.github.io/B6strap/beginner/$12-00-jumbotron.html)
+[Jumbotron](beginner/$12-00-jumbotron.html)
 /
-[List group](https://kissjgabi.github.io/B6strap/beginner/$13-00-listGroup.html)
+[List group](beginner/$13-00-listGroup.html)
 /
-[Media object](https://kissjgabi.github.io/B6strap/beginner/$14-00-mediaObject.html)
+[Media object](beginner/$14-00-mediaObject.html)
 /
-[Modal](https://kissjgabi.github.io/B6strap/beginner/$15-00-modal.html)
+[Modal](beginner/$15-00-modal.html)
 /
-[Navs](https://kissjgabi.github.io/B6strap/beginner/$16-00-navs.html)
+[Navs](beginner/$16-00-navs.html)
 /
-[Navbar](https://kissjgabi.github.io/B6strap/beginner/$17-00-navbar.html)
+[Navbar](beginner/$17-00-navbar.html)
+
+## Advanced trip
+
+### Carousel
+
+[Carousel with carousel-item's background image](advanced/datasheet-carousel-01-bgImage.md)  
+
+[Carousel with fixed background image](advanced/datasheet-carousel-02-bgImgFix.md)  
 
 ## Github Pages
 [HowTo?](https://pages.github.com/)
