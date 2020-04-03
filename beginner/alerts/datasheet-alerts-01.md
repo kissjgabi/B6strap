@@ -1,5 +1,5 @@
   
-## Alerts
+## Alerts 01
 
 <a href="https://kissjgabi.github.io/B6strap/beginner/$01-01-alerts.html" target="_blank">Prevew in browser</a>
 
@@ -19,13 +19,13 @@ code:
 		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" 
 		crossorigin="anonymous" />
 
-    <title>0101-alerts</title>
+    <title>01-alerts-01</title>
   </head>
   <body>
 ```  
 CONTENT START  
 ```html
-      <h1>0101-alerts</h1>	
+      <h1>01-alerts-01</h1>	
 	
 	<div class="alert alert-primary" role="alert">
 	  A simple primary alert—check it out!
