@@ -75,7 +75,7 @@
 
 [Carousel with fixed background image](advanced/carousel/datasheet-carousel-02-bgImgFix.md)  
 
-[Carousel with fixed background image and individual controls](datasheet-carousel-03-fixedWithControls.md)  
+[Carousel with fixed background image and individual controls](advanced/carousel/datasheet-carousel-03-fixedWithControls.md)  
 
 ## Github Pages
 [HowTo?](https://pages.github.com/)
