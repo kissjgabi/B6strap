@@ -9,48 +9,10 @@ code:
 ```  
 CSS START
 ```css
-        body {
-            margin: 0;
-            padding : 0;
-        }
-
-        h1 {
-            height: 5vh;
-            line-height: 5vh;
-            margin: 0;
-            padding : 0;
-            width: 100%;
-            position: fixed;
-            background-color: transzparent;
-            z-index: 10;
-        }
-
-        .bg-attach-absolute {   // default setting
-            background-attachment: absolute;
-        } 
-
-        .carousel-item {
-            height: 100vh;
-            background-repeat: no-repeat;
-            background-position: center center;
-            background-size: cover;
-            background-color: whitesmoke;
-            overflow: hidden;
-        }
-
-        .bg-attach-fixed {
-            background-attachment: fixed;
-        } 
-
-        .carousel-item>img {
-            position: absolute;
-            top: 5vh;
-            left: 0;
-            background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
-            min-width: 100%;
-            height: 90vh;
-        }
-
+    // carousel-fixed.css
+```  
+CAROUSEL-CONTROL START
+```css
         .carousel-control-prev {
             left: 0;
         }
@@ -96,7 +58,9 @@ CSS START
 
             background-image: url("../icon2next.png");
         }
-```  
+``` 
+CAROUSEL-CONTROL END
+
 CSS END  
 
 CONTENT START  
