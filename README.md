@@ -69,11 +69,13 @@
 
 ## Advanced trip
 
-### Carousel
+### Carousel step by step with „carousel-fade”
 
 [Carousel with carousel-item's background image](advanced/carousel/datasheet-carousel-01-bgImage.md)  
 
 [Carousel with fixed background image](advanced/carousel/datasheet-carousel-02-bgImgFix.md)  
+
+[Carousel with fixed background image and individual controls](datasheet-carousel-03-fixedWithControls.md)  
 
 ## Github Pages
 [HowTo?](https://pages.github.com/)
