@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding : 0;
+}
+
+h1 {
+    height: 5vh;
+    line-height: 5vh;
+    margin: 0;
+    padding : 0;
+    width: 100%;
+    position: fixed;
+    background-color: transzparent;
+    z-index: 10;
+}
+
+.bg-attach-absolute {   // default setting
+    background-attachment: absolute;
+} 
+
+.carousel-item {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+.bg-attach-fixed {
+    background-attachment: fixed;
+} 
+
+.carousel-item>img {
+    position: absolute;
+    top: 5vh;
+    left: 0;
+    background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
+    min-width: 100%;
+    height: 90vh;
+}
+
+.carousel-control-prev {
+    left: 0;
+}
+
+.carousel-control-next {
+    right: 0;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+    transition: opacity .15s ease;
+    
+}.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: no-repeat 50%/100% 100%;
+    background-image: none;
+    z-index: auto;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+
+    background-image: url("../icon2prev.png");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+
+    background-image: url("../icon2next.png");
+}
+
+
+ol.carousel-indicators {
+    position: absolute;
+    bottom: 2vh;
+    margin: 0;
+    left: 0;
+    width: 100%;
+}
+
+ol.carousel-indicators li,
+ol.carousel-indicators li.active {
+    width: 2vw;
+    height: 2vw;
+    margin: 0.5vw;
+    border: 8px ridge black;
+    border-radius: 25% / 25%;
+    background: rgba(192, 192, 192, 0.8);
+}
+
+ol.carousel-indicators li.active {
+    background: rgba(250, 250, 70, 0.5);
+}
