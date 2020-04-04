@@ -1,6 +1,6 @@
 ## Badges 02
 
-<a href="https://kissjgabi.github.io/B6strap/beginner/$02-02-badgesInButtons.html" target="_blank">Prevew in browser</a>
+<a href="$02-02-badgesInButtons.html" target="_blank">Prevew in browser</a>
 
 code:
 
