@@ -1,6 +1,6 @@
 ## Badges 03
 
-<a href="https://kissjgabi.github.io/B6strap/beginner/$02-03-badgesVariations.html" target="_blank">Prevew in browser</a>
+<a href="$02-03-badgesVariations.html" target="_blank">Prevew in browser</a>
 
 code:
 
