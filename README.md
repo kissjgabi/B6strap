@@ -77,6 +77,8 @@
 
 [Carousel with fixed background image and individual controls](advanced/carousel/datasheet-carousel-03-fixedWithControls.md)  
 
+[Carousel with individual indicators](advanced/carousel/datasheet-carousel-04-fixedWithIndicators.md)  
+
 ## Github Pages
 [HowTo?](https://pages.github.com/)
 
